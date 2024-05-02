@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "fariszikri",
     "name": "maestro-eas-example",
     "slug": "maestro-eas-example",
     "version": "1.0.0",
