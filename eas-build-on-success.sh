@@ -11,7 +11,6 @@ then
    echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
    sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
    export CPPFLAGS="-I/opt/homebrew/opt/openjdk/include"
-
    # path for ipa
    APP_EXECUTABLE_PATH=/Users/expo/workingdir/build/ios/build/Build/Products/Release-iphonesimulator/MaestroEasExample.app
 else
